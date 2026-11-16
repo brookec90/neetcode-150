@@ -11,10 +11,10 @@ Each problem includes:
 
 Current Progress
 - Arrays & Hashing (X)
-- Two Pointers ( )
+- Two Pointers (X)
 - Stack (X)
-- Binary Search ( )
-- Sliding Window ( )
+- Binary Search (X)
+- Sliding Window (X)
 - Linked List ( )
 - Trees ( )
 - Tries ( )
